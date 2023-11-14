@@ -1,0 +1,1 @@
+Hello.Whoever reading this, this is a git initialized repository and the changes made to the different files are tracked or maintained .Thank you.
