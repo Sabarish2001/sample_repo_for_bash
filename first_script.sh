@@ -20,5 +20,5 @@ echo "Are you currently unattached ?"
 read relationship
 echo "Do you like playing video games ?"
 read games
-echo "Do you like PlayStation or Xbox ?"
+echo "Do you like Xbox or Playstation ?"
 read vgtype
